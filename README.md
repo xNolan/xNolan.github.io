@@ -7,6 +7,10 @@ Discord bot coded in python to pull speed running information for any game. The 
 *View Code*: [Here](https://replit.com/@Nolzzee/Pong-1#index.html)
 ![](/assets/discord_bot.png)
 
+### La Sirenita
+Contract graphic design to create a new menu for the La Sirenita food truck, as well as do a photoshoot for their products. Created in photoshop, working cloesly with the owners to create the best menu possible. 
+![](/assets/)
+
 ### E-Center Website Design
 Contracted to design mockups for an E-Sports website. Focused on minimalist design aesthetic, that showcased player performance in an easy to understand manner. Created with Adobe Photoshop within a certain deadline with satisfaction from the project owner.
 ![](/assets/ecenterhome.png)
@@ -21,5 +25,4 @@ Pong implementation created in native HTML, CSS, and JS. Implemented AI to track
 *View Code*: [Here](https://replit.com/@Nolzzee/Pong-1#index.html)
 ![](/assets/pong.gif)
 
-## Resume
-![](/assets/OnlineResume2.png)
+
