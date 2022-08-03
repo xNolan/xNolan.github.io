@@ -8,7 +8,7 @@ Discord bot coded in python to pull speed running information for any game. The 
 ![](/assets/discord_bot.png)
 
 ### La Sirenita
-Contract graphic design to create a new menu for the La Sirenita food truck, as well as do a photoshoot for their products. Created in photoshop, working cloesly with the owners to create the best menu possible. 
+Contract multi-media design to create a new menu for the La Sirenita food truck, as well as do a photoshoot for their products. Created in photoshop, working closely with the owners to create the best menu possible. 
 ![](/assets/laSiren.png)
 
 ### E-Center Website Design
