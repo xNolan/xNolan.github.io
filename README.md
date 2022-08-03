@@ -28,4 +28,4 @@ Pong implementation created in native HTML, CSS, and JS. Implemented AI to track
 ### For Fun Projects
 I do some for fun editing projects in Adobe Premiere and after effects, mainly for content creators on twitch. Note: Some gifs will be lower quality than actual output due to size restraints.
 ![](/assets/JJIS.gif)
-![](/assets/stringer.gif)
+![](/assets/stinger.gif)
