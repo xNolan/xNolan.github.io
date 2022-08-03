@@ -1,4 +1,3 @@
-# xNolan.github.io
 # Nolan Di Greco
 
 ## Projects
