@@ -25,4 +25,6 @@ Pong implementation created in native HTML, CSS, and JS. Implemented AI to track
 *View Code*: [Here](https://replit.com/@Nolzzee/Pong-1#index.html)
 ![](/assets/pong.gif)
 
-
+### For Fun Projects
+I do some for fun editing projects in Adobe Premiere and after effects, mainly for content creators on twitch.
+![](/assets/stringer.mp4)
